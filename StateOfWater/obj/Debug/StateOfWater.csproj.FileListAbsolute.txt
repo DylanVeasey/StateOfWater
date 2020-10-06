@@ -1,0 +1,7 @@
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\bin\Debug\StateOfWater.exe.config
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\bin\Debug\StateOfWater.exe
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\bin\Debug\StateOfWater.pdb
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\obj\Debug\StateOfWater.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\obj\Debug\StateOfWater.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\obj\Debug\StateOfWater.exe
+C:\Users\dylan\source\repos\StateOfWater\StateOfWater\obj\Debug\StateOfWater.pdb
